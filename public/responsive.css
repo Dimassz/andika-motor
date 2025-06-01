@@ -1,0 +1,29 @@
+@media only screen and (max-width: 935px) {
+ .headerText{
+    width: 90% !important;
+ }
+ .headerImage img{
+    width: 70% !important;
+}
+.boxContoninerContentFill h6,li,p{
+    font-size: 14px !important;
+}
+.boxContoninerContentHeadFill h5{
+    font-size: 18px !important;
+}
+.box-1{
+  width: 95% !important;
+}
+}
+
+@media only screen and (max-width: 648px){
+  .box1Container{
+    flex-direction: column;
+  }
+  .box-1{
+  width: 100% !important;
+}
+.box1Container{
+  min-height: 800px !important;
+}
+}
